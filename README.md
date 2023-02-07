@@ -1,10 +1,4 @@
 # Projet-Algo
 
-Le jeu est composé de différents niveaux, chaque niveaux contient plusieurs salles.
-Pour l'instant le code contient des fonction permettants de de créer des formes qui feront office de surface (mur sols ..).
-Il y aussi une fonction permettant  d'initialiser une salle.
-
-Deplacement.c contient toutes les fonctions gerant les collisions.
-C'est fonctions sont uilisées dans main.c pour deplacer le personnages, lui affecter une gravité ect.
-
-Le code contient aussi un menu d'acceuil et un menu pour quitter (quand on appuie sur "w").
+Le personnage n'est plus rond mais carré ce qui sera utile pour lui coller une image où un sprite 
+Il y'a donc eu une mise à jour de la pluparts des fonctions de déplacements et l'ajout de la fonction doodle qui permet au joueur de passer d'un coté à lautre de l'écran
